@@ -1,0 +1,94 @@
+c:\users\сергей\documents\visual studio 2013\Projects\Shader\Shader\bin\Debug\Shader.exe.config
+C:\Users\Сергей\documents\visual studio 2013\Projects\Shader\Shader\bin\Debug\Shader.exe
+C:\Users\Сергей\documents\visual studio 2013\Projects\Shader\Shader\bin\Debug\Shader.pdb
+C:\Users\Сергей\documents\visual studio 2013\Projects\Shader\Shader\bin\Debug\OpenTK.dll
+C:\Users\Сергей\documents\visual studio 2013\Projects\Shader\Shader\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Сергей\documents\visual studio 2013\Projects\Shader\Shader\bin\Debug\OpenTK.pdb
+C:\Users\Сергей\documents\visual studio 2013\Projects\Shader\Shader\bin\Debug\OpenTK.xml
+C:\Users\Сергей\documents\visual studio 2013\Projects\Shader\Shader\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Сергей\documents\visual studio 2013\Projects\Shader\Shader\obj\Debug\Shader.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\documents\visual studio 2013\Projects\Shader\Shader\obj\Debug\Shader.Properties.Resources.resources
+C:\Users\Сергей\documents\visual studio 2013\Projects\Shader\Shader\obj\Debug\Shader.csproj.GenerateResource.Cache
+C:\Users\Сергей\documents\visual studio 2013\Projects\Shader\Shader\obj\Debug\Shader.exe
+C:\Users\Сергей\documents\visual studio 2013\Projects\Shader\Shader\obj\Debug\Shader.pdb
+F:\Shader\Shader\bin\Debug\Shader.exe.config
+F:\Shader\Shader\obj\Debug\Shader.exe
+F:\Shader\Shader\obj\Debug\Shader.pdb
+F:\Shader\Shader\bin\Debug\Shader.exe
+F:\Shader\Shader\bin\Debug\Shader.pdb
+F:\Shader\Shader\bin\Debug\OpenTK.dll
+F:\Shader\Shader\bin\Debug\OpenTK.GLControl.dll
+F:\Shader\Shader\bin\Debug\OpenTK.pdb
+F:\Shader\Shader\bin\Debug\OpenTK.xml
+F:\Shader\Shader\bin\Debug\OpenTK.GLControl.xml
+F:\Shader\Shader\obj\Debug\Shader.csprojResolveAssemblyReference.cache
+F:\Shader\Shader\obj\Debug\Shader.Properties.Resources.resources
+F:\Shader\Shader\obj\Debug\Shader.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Shader\Shader\bin\Debug\Shader.exe.config
+C:\Users\Asus\Desktop\Shader\Shader\obj\Debug\Shader.exe
+C:\Users\Asus\Desktop\Shader\Shader\obj\Debug\Shader.pdb
+C:\Users\Asus\Desktop\Shader\Shader\bin\Debug\Shader.exe
+C:\Users\Asus\Desktop\Shader\Shader\bin\Debug\Shader.pdb
+C:\Users\Asus\Desktop\Shader\Shader\bin\Debug\OpenTK.dll
+C:\Users\Asus\Desktop\Shader\Shader\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Asus\Desktop\Shader\Shader\bin\Debug\OpenTK.pdb
+C:\Users\Asus\Desktop\Shader\Shader\bin\Debug\OpenTK.xml
+C:\Users\Asus\Desktop\Shader\Shader\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Asus\Desktop\Shader\Shader\obj\Debug\Shader.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Shader\Shader\obj\Debug\Shader.Properties.Resources.resources
+C:\Users\Asus\Desktop\Shader\Shader\obj\Debug\Shader.csproj.GenerateResource.Cache
+F:\ssssss\Shader\Shader\bin\Debug\Shader.exe.config
+F:\ssssss\Shader\Shader\bin\Debug\Shader.exe
+F:\ssssss\Shader\Shader\bin\Debug\Shader.pdb
+F:\ssssss\Shader\Shader\bin\Debug\OpenTK.dll
+F:\ssssss\Shader\Shader\bin\Debug\OpenTK.GLControl.dll
+F:\ssssss\Shader\Shader\bin\Debug\OpenTK.pdb
+F:\ssssss\Shader\Shader\bin\Debug\OpenTK.xml
+F:\ssssss\Shader\Shader\bin\Debug\OpenTK.GLControl.xml
+F:\ssssss\Shader\Shader\obj\Debug\Shader.csprojResolveAssemblyReference.cache
+F:\ssssss\Shader\Shader\obj\Debug\Shader.Properties.Resources.resources
+F:\ssssss\Shader\Shader\obj\Debug\Shader.csproj.GenerateResource.Cache
+F:\ssssss\Shader\Shader\obj\Debug\Shader.exe
+F:\ssssss\Shader\Shader\obj\Debug\Shader.pdb
+C:\Users\simon\Desktop\Shader\Shader\bin\Debug\Shader.exe.config
+C:\Users\simon\Desktop\Shader\Shader\obj\Debug\Shader.exe
+C:\Users\simon\Desktop\Shader\Shader\obj\Debug\Shader.pdb
+C:\Users\simon\Desktop\Shader\Shader\bin\Debug\Shader.exe
+C:\Users\simon\Desktop\Shader\Shader\bin\Debug\Shader.pdb
+C:\Users\simon\Desktop\Shader\Shader\bin\Debug\OpenTK.dll
+C:\Users\simon\Desktop\Shader\Shader\bin\Debug\OpenTK.GLControl.dll
+C:\Users\simon\Desktop\Shader\Shader\bin\Debug\OpenTK.pdb
+C:\Users\simon\Desktop\Shader\Shader\bin\Debug\OpenTK.xml
+C:\Users\simon\Desktop\Shader\Shader\bin\Debug\OpenTK.GLControl.xml
+C:\Users\simon\Desktop\Shader\Shader\obj\Debug\Shader.Properties.Resources.resources
+C:\Users\simon\Desktop\Shader\Shader\obj\Debug\Shader.csproj.GenerateResource.Cache
+C:\Users\simon\Desktop\Shader\Shader\obj\Debug\Shader.csprojResolveAssemblyReference.cache
+D:\Вагик\Shader\Shader\bin\Debug\Shader.exe.config
+D:\Вагик\Shader\Shader\obj\Debug\Shader.exe
+D:\Вагик\Shader\Shader\obj\Debug\Shader.pdb
+D:\Вагик\Shader\Shader\bin\Debug\Shader.exe
+D:\Вагик\Shader\Shader\bin\Debug\Shader.pdb
+D:\Вагик\Shader\Shader\bin\Debug\OpenTK.pdb
+D:\Вагик\Shader\Shader\bin\Debug\OpenTK.xml
+D:\Вагик\Shader\Shader\bin\Debug\OpenTK.GLControl.xml
+D:\Вагик\Shader\Shader\obj\Debug\Shader.csprojResolveAssemblyReference.cache
+D:\Вагик\Shader\Shader\obj\Debug\Shader.Properties.Resources.resources
+D:\Вагик\Shader\Shader\obj\Debug\Shader.csproj.GenerateResource.Cache
+D:\Ybrb\Shader\Shader\bin\Debug\Shader.exe.config
+D:\Ybrb\Shader\Shader\obj\Debug\Shader.exe
+D:\Ybrb\Shader\Shader\obj\Debug\Shader.pdb
+D:\Ybrb\Shader\Shader\bin\Debug\Shader.exe
+D:\Ybrb\Shader\Shader\bin\Debug\Shader.pdb
+D:\Ybrb\Shader\Shader\bin\Debug\mscorlib.dll
+D:\Ybrb\Shader\Shader\bin\Debug\OpenTK.pdb
+D:\Ybrb\Shader\Shader\bin\Debug\OpenTK.xml
+D:\Ybrb\Shader\Shader\bin\Debug\OpenTK.GLControl.xml
+D:\Ybrb\Shader\Shader\bin\Debug\ru\mscorlib.resources.dll
+D:\Ybrb\Shader\Shader\bin\Debug\normidna.nlp
+D:\Ybrb\Shader\Shader\bin\Debug\normnfc.nlp
+D:\Ybrb\Shader\Shader\bin\Debug\normnfd.nlp
+D:\Ybrb\Shader\Shader\bin\Debug\normnfkc.nlp
+D:\Ybrb\Shader\Shader\bin\Debug\normnfkd.nlp
+D:\Ybrb\Shader\Shader\obj\Debug\Shader.csprojResolveAssemblyReference.cache
+D:\Ybrb\Shader\Shader\obj\Debug\Shader.Properties.Resources.resources
+D:\Ybrb\Shader\Shader\obj\Debug\Shader.csproj.GenerateResource.Cache
